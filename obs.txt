@@ -1,6 +1,0 @@
-# para iniciar o servidor uvcorn - 
-	uvicorn main:app --reload 
-
-Swagger
-    localhost/docs
-
